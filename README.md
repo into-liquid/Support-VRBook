@@ -11,5 +11,8 @@ UnityユーザーのためのVRアプリ開発のサポート
 2-4 part 1|[2-4 Unity Editor](https://youtu.be/AdLcIHF6NOo)|Sceneの切り替え、Editor画面での操作
 2-4 part 2|[2-4 Scene Manipulate](https://youtu.be/u8oyS-4BzpQ)|主にScene画面での操作
 2-6|[2-6 Build Prepare](https://youtu.be/CgclkgwH38Q)|VR化の前準備
+2-7|[2-7 Adapting VR](https://youtu.be/0G4aoOYk5YA)|VR化
+2-8|[2-8 Use Quest Link](https://youtu.be/TWHYrd_Hqpo)|Quest Linkの利用
+2-9|[2-9 Moving room](https://youtu.be/lVsedsWLSIU)|XR Interaction Toolkitを使って屋敷内を移動できるようにする
 
-注）2-3’の2022.3.34f1不具合については、次のバージョンで改修され、対処は不要になるのではと思っている。
+注）2-3’の2022.3.34f1不具合については、次のバージョンで改修され、対処は不要になるのではと思っている。2022.3.35f1は未対応だった。
