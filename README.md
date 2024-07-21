@@ -17,4 +17,9 @@ UnityユーザーのためのVRアプリ開発のサポート
 2-11|[2-11 Collider](https://youtu.be/IWZxQJiqcj4)|襖に取り付けらているColliderを無効にし、奥の部屋に移動できるようにする
 2-12|[2-12 Teleport](https://youtu.be/hJgv8SRw80c)|床にTeleportation Areaを取り付けて、テレポート可能にする
 2-13|[2-13 Grab Interaction](https://youtu.be/6aZAvhSM4c4)|茶釜にXR Grab Interactableを取り付けて、つかめるようにする
+2-13|[2-13 Local Global](https://youtu.be/OS2lylvclyI)|Game Objectのローカル座標について
+2-13|[2-13 Grab Attach Transform](https://youtu.be/DjaQN72CJm4)|茶釜のつかみ位置を調整する
+2-14|[2-14 Script part 1](https://youtu.be/SoM2-UG_riE)|茶釜を振動させる
+2-14|[2-14 Script part 2](https://youtu.be/nglQOqhKwz0)|茶釜をつかんでトリガーを握ったら振動させる
+
 注）2-3’の2022.3.34f1不具合については、次のバージョンで改修され、対処は不要になるのではと思っている。2022.3.37f1は未対応だった。
